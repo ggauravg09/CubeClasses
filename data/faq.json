@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "question": "What age groups do you teach?",
+    "answer": "We teach children aged 5-17 across multiple subjects. Each subject has specific age-appropriate curriculum."
+  },
+  {
+    "id": 2,
+    "question": "How often are classes held?",
+    "answer": "Classes typically run 2-4 times per week, each lasting 1 hour. You can choose a flexible schedule that works for you."
+  },
+  {
+    "id": 3,
+    "question": "Can I try a free demo class?",
+    "answer": "Yes! We offer a free trial class where your child can experience our teaching style and meet the mentor."
+  },
+  {
+    "id": 4,
+    "question": "What platform do you use for classes?",
+    "answer": "We use Zoom for our online classes. You'll need a computer/tablet and a stable internet connection."
+  },
+  {
+    "id": 5,
+    "question": "Are there package discounts?",
+    "answer": "Yes! We offer monthly, quarterly, and annual packages with attractive discounts. Contact us for details."
+  },
+  {
+    "id": 6,
+    "question": "Do you provide certificates?",
+    "answer": "Yes, certificates are provided upon course completion. For robotics, we also provide achievement badges."
+  }
+]

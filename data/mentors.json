@@ -1,0 +1,32 @@
+[
+  {
+    "id": "mentor1",
+    "name": "Priya Sharma",
+    "specialization": "Mathematics",
+    "qualifications": "M.Sc Mathematics, 10+ years teaching experience",
+    "rating": 4.9,
+    "studentsCount": 150,
+    "bio": "Expert in making math concepts simple and enjoyable. Specializes in algebra and geometry.",
+    "languages": ["English", "Hindi"]
+  },
+  {
+    "id": "mentor2",
+    "name": "Rajesh Kumar",
+    "specialization": "Robotics & Coding",
+    "qualifications": "B.Tech Computer Science, 8+ years in tech education",
+    "rating": 4.8,
+    "studentsCount": 200,
+    "bio": "Passionate about teaching coding and robotics. Creates engaging hands-on projects.",
+    "languages": ["English", "Hindi"]
+  },
+  {
+    "id": "mentor3",
+    "name": "Anjali Verma",
+    "specialization": "Hindi Language",
+    "qualifications": "M.A Hindi Literature, 12+ years teaching experience",
+    "rating": 4.7,
+    "studentsCount": 120,
+    "bio": "Makes Hindi literature engaging through storytelling and creative writing exercises.",
+    "languages": ["English", "Hindi"]
+  }
+]

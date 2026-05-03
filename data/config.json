@@ -1,0 +1,26 @@
+{
+  "companyName": "Cube Classes",
+  "tagline": "Live Online Classes for Kids Aged 5-17",
+  "description": "Personalized learning with dedicated mentors. Master Maths, Hindi, and Robotics at your own pace.",
+  "email": "contact@cubeclasses.com",
+  "phone": "+44-XXXX-XXXX",
+  "whatsapp": "+44-XXXX-XXXX",
+  "address": "Your Location",
+  "socialLinks": {
+    "whatsapp": "https://wa.me/44XXXXXXXXXX",
+    "instagram": "https://instagram.com/cubeclasses",
+    "facebook": "https://facebook.com/cubeclasses",
+    "youtube": "https://youtube.com/cubeclasses"
+  },
+  "stats": {
+    "students": "5000+",
+    "mentors": "200+",
+    "yearsExperience": "5+",
+    "successRate": "95%"
+  },
+  "heroSection": {
+    "title": "Master Your Skills with Expert Mentors",
+    "subtitle": "Live 1-on-1 online classes tailored to your learning pace. Choose from Maths, Hindi, Robotics & more!",
+    "ctaText": "Book FREE Demo Class"
+  }
+}

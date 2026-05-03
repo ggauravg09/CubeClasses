@@ -1,0 +1,71 @@
+[
+  {
+    "id": "maths",
+    "name": "Mathematics",
+    "icon": "🔢",
+    "description": "Build strong mathematical foundations with problem-solving strategies and real-world applications.",
+    "ageGroup": "Ages 5-17",
+    "frequency": "2-4 classes/week",
+    "duration": "1 hour per class",
+    "pricePerClass": 12,
+    "currency": "GBP",
+    "curriculum": [
+      "Basic Arithmetic (Ages 5-7)",
+      "Fractions & Decimals (Ages 8-10)",
+      "Algebra Basics (Ages 11-13)",
+      "Advanced Algebra & Geometry (Ages 14-17)"
+    ],
+    "outcomes": [
+      "Strong conceptual understanding",
+      "Problem-solving skills",
+      "Exam preparation",
+      "Confidence in mathematics"
+    ]
+  },
+  {
+    "id": "hindi",
+    "name": "Hindi Language & Literature",
+    "icon": "📚",
+    "description": "Master Hindi language skills including grammar, literature, and creative writing.",
+    "ageGroup": "Ages 5-17",
+    "frequency": "2-4 classes/week",
+    "duration": "1 hour per class",
+    "pricePerClass": 12,
+    "currency": "GBP",
+    "curriculum": [
+      "Hindi Alphabet & Phonetics (Ages 5-7)",
+      "Grammar & Basic Writing (Ages 8-10)",
+      "Literature & Composition (Ages 11-13)",
+      "Advanced Literature & Essays (Ages 14-17)"
+    ],
+    "outcomes": [
+      "Fluent Hindi communication",
+      "Writing proficiency",
+      "Literature appreciation",
+      "Cultural understanding"
+    ]
+  },
+  {
+    "id": "robotics",
+    "name": "Robotics & Coding",
+    "icon": "🤖",
+    "description": "Learn programming, robotics, and AI through hands-on projects and real-world applications.",
+    "ageGroup": "Ages 8-17",
+    "frequency": "2-4 classes/week",
+    "duration": "1 hour per class",
+    "pricePerClass": 15,
+    "currency": "GBP",
+    "curriculum": [
+      "Basic Coding & Scratch (Ages 8-10)",
+      "Python Programming (Ages 11-13)",
+      "Advanced Robotics & IoT (Ages 14-17)",
+      "AI & Machine Learning Projects (Ages 15-17)"
+    ],
+    "outcomes": [
+      "Programming proficiency",
+      "Problem-solving with code",
+      "Robotics project completion",
+      "Career-ready skills"
+    ]
+  }
+]

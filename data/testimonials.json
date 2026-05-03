@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Rahul Gupta (Parent)",
+    "content": "My son's math grades improved from C to A in just 3 months. The personalized approach really works!",
+    "rating": 5,
+    "subject": "Mathematics"
+  },
+  {
+    "id": 2,
+    "name": "Priya (Student, Age 12)",
+    "content": "I love the robotics classes! My mentor makes coding so fun. I built my first robot!",
+    "rating": 5,
+    "subject": "Robotics"
+  },
+  {
+    "id": 3,
+    "name": "Mrs. Sharma (Parent)",
+    "content": "Excellent teaching quality. My daughter now confidently speaks Hindi. Highly recommended!",
+    "rating": 4.5,
+    "subject": "Hindi"
+  },
+  {
+    "id": 4,
+    "name": "Aditya (Student, Age 14)",
+    "content": "The free demo class was amazing! I decided to enroll immediately. Best decision ever.",
+    "rating": 5,
+    "subject": "Mathematics"
+  }
+]
