@@ -1,0 +1,1 @@
+import { NextResponse } from 'next/server';\nimport mentors from '@/data/mentors.json';\n\nexport async function GET() {\n  return NextResponse.json(mentors);\n}\n
