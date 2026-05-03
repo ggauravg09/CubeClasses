@@ -1,0 +1,1 @@
+import { NextResponse } from 'next/server';\nimport config from '@/data/config.json';\n\nexport async function GET() {\n  return NextResponse.json(config);\n}\n
